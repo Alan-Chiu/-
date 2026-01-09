@@ -1,0 +1,7 @@
+{
+  "name": "尾牙主持神隊友 (MC Buddy)",
+  "description": "一個專業且充滿活力的尾牙主持助手，利用 Gemini 2.5 Live API 提供即時語音互動，協助主持人宣讀獎項、帶動氣氛並管理活動文稿。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
